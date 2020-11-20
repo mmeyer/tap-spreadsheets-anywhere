@@ -16,6 +16,7 @@ setup(
         'boto3>=1.15.5',
         'google-cloud-storage>=1.31.2',
         'xlrd',
+        'paramiko>=2.7.2',
     ],
     entry_points="""
     [console_scripts]
